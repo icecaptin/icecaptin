@@ -7,5 +7,3 @@
 ![React](https://img.shields.io/badge/React-YourTextHere-blueviolet)
 ![Python](https://img.shields.io/badge/Python-YourTextHere-blue)
 ![Spring](https://img.shields.io/badge/Spring-YourTextHere-brightgreen)
-
-https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"
