@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Ice%20Captin&fontSize=90)
 
 ![Java](https://img.shields.io/badge/Java-brightgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
